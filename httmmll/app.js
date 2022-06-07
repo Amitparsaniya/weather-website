@@ -1,6 +1,3 @@
-// const { response } = require("express");
-console.log('helo india');
-
 const weatherform = document.querySelector('form')
 const serch = document.querySelector('input')
 const msgone = document.querySelector('#msgone')
